@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RITWIK4959
+- 👋 Hi, I’m @RITWIK4959 
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on ...
