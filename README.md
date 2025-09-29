@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on RAG (Retrieval-Augmented Generation) models and intelligent agents<br><br>🤝 I’m looking to collaborate on AI/ML projects.<br><br>🆘 I’m looking for help with large-scale ML deployments and feature engineering<br><br>🌱 I’m currently learning advanced retrieval-augmented models, reinforcement learning, and AI model deployment<br><br>💬 Ask me about Python, C++, ML/DL frameworks, and AI projects<br><br>⚡ Fun fact: I enjoy turning complex datasets into actionable insights with ML
+🔭 I’m currently working on RAG (Retrieval-Augmented Generation) models and intelligent agents<br>🤝 I’m looking to collaborate on AI/ML projects.<br>🆘 I’m looking for help with large-scale ML deployments and feature engineering<br>🌱 I’m currently learning advanced retrieval-augmented models, reinforcement learning, and AI model deployment<br>💬 Ask me about Python, C++, ML/DL frameworks, and AI projects<br><br>⚡ Fun fact: I enjoy turning complex datasets into actionable insights with ML
 
 
 ## 🌐 Socials:
