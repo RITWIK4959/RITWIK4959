@@ -15,4 +15,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=RITWIK4959&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RITWIK4959/RITWIK4959/output/github-snake-dark.svg" alt="snake gif" />
+</div>
+
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
